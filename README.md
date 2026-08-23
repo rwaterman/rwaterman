@@ -22,11 +22,10 @@ Lead Cloud Architect. I lead cloud architecture and backend delivery — serverl
 
 ## Around here
 
-- [website](https://github.com/rwaterman/website) [![Deploy](https://github.com/rwaterman/website/actions/workflows/deploy.yml/badge.svg)](https://github.com/rwaterman/website/actions/workflows/deploy.yml) — source for rickgwaterman.com: Astro
-- [blog](https://github.com/rwaterman/blog) [![Deploy](https://github.com/rwaterman/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/rwaterman/blog/actions/workflows/deploy.yml) — source for the blog: Hugo with the Congo theme
-- [notes](https://github.com/rwaterman/notes) [![Deploy](https://github.com/rwaterman/notes/actions/workflows/deploy.yml/badge.svg)](https://github.com/rwaterman/notes/actions/workflows/deploy.yml) — source for the notes site: Quartz plus an Obsidian vault
-- [otel-grafana-prometheus-demo](https://github.com/rwaterman/otel-grafana-prometheus-demo) — OpenTelemetry, Grafana, and Prometheus observability demo
+- [dotfiles](https://github.com/rwaterman/dotfiles) [![gitleaks](https://github.com/rwaterman/dotfiles/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/rwaterman/dotfiles/actions/workflows/gitleaks.yml) — zsh, editor, and AI-agent configs, stowed into `$HOME`; one `CLAUDE.md` feeds Claude, Codex, and Copilot
 - [templates](https://github.com/rwaterman/templates) [![gitleaks](https://github.com/rwaterman/templates/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/rwaterman/templates/actions/workflows/gitleaks.yml) — copy-and-customize IaC, Dockerfiles, and manifests
 - [scripts](https://github.com/rwaterman/scripts) [![gitleaks](https://github.com/rwaterman/scripts/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/rwaterman/scripts/actions/workflows/gitleaks.yml) — standalone operational scripts
-- [dotfiles](https://github.com/rwaterman/dotfiles) [![gitleaks](https://github.com/rwaterman/dotfiles/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/rwaterman/dotfiles/actions/workflows/gitleaks.yml) — shell and editor configs
-- [deep-object-rename](https://github.com/rwaterman/deep-object-rename) [![npm](https://img.shields.io/npm/v/deep-object-rename)](https://www.npmjs.com/package/deep-object-rename) — dependency-free deep rename of object keys or values
+- [ts-lib-starter](https://github.com/rwaterman/ts-lib-starter) — minimal Node 24+ ESM starter for TypeScript libraries
+- [deep-object-rename-ts](https://github.com/rwaterman/deep-object-rename-ts) [![npm](https://img.shields.io/npm/v/deep-object-rename)](https://www.npmjs.com/package/deep-object-rename) — dependency-free deep rename of object keys or values
+- [pendularium](https://github.com/rwaterman/pendularium) — chaotic double-pendulum generative art in Swift + Metal, painting an HDR image until the machine gives out
+- [radial-afterburn](https://github.com/rwaterman/radial-afterburn) — neon tube shooter in Swift + Metal, built almost entirely with AI coding agents
