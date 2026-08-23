@@ -2,17 +2,17 @@
 
 [![README checks](https://github.com/rwaterman/rwaterman/actions/workflows/ci.yml/badge.svg)](https://github.com/rwaterman/rwaterman/actions/workflows/ci.yml)
 [![gitleaks](https://github.com/rwaterman/rwaterman/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/rwaterman/rwaterman/actions/workflows/gitleaks.yml)
-[![rickgwaterman.com](https://img.shields.io/website?url=https%3A%2F%2Frickgwaterman.com&label=rickgwaterman.com)](https://rickgwaterman.com)
-[![notes](https://img.shields.io/website?url=https%3A%2F%2Fnotes.rickgwaterman.com&label=notes)](https://notes.rickgwaterman.com)
+[![rickwaterman.com](https://img.shields.io/website?url=https%3A%2F%2Frickwaterman.com&label=rickwaterman.com)](https://rickwaterman.com)
+[![notes](https://img.shields.io/website?url=https%3A%2F%2Fnotes.rickwaterman.com&label=notes)](https://notes.rickwaterman.com)
 
 Lead Cloud Architect. I lead cloud architecture and backend delivery — serverless systems, event-driven services, and data platforms built for long-term ownership. Ten-plus years across backend and cloud engineering, AWS certified, based in Vancouver, WA in the Portland, OR metro.
 
 | | |
 | --- | --- |
-| **Website** | [rickgwaterman.com](https://rickgwaterman.com) — bio, resume, links |
-| **Blog** | [blog.rickgwaterman.com](https://blog.rickgwaterman.com) — cloud architecture, engineering, and whatever I'm building |
-| **Notes** | [notes.rickgwaterman.com](https://notes.rickgwaterman.com) — references, implementation notes, and technical docs |
-| **Resume** | [rickgwaterman.com/resume](https://rickgwaterman.com/resume) |
+| **Website** | [rickwaterman.com](https://rickwaterman.com) — bio, resume, links |
+| **Blog** | [blog.rickwaterman.com](https://blog.rickwaterman.com) — cloud architecture, engineering, and whatever I'm building |
+| **Notes** | [notes.rickwaterman.com](https://notes.rickwaterman.com) — references, implementation notes, and technical docs |
+| **Resume** | [rickwaterman.com/resume](https://rickwaterman.com/resume) |
 
 ## Focus
 
