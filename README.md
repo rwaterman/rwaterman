@@ -10,9 +10,8 @@ Lead Cloud Architect. I lead cloud architecture and backend delivery — serverl
 | | |
 | --- | --- |
 | **Website** | [rickwaterman.com](https://rickwaterman.com) — bio, resume, links |
-| **Blog** | [blog.rickwaterman.com](https://blog.rickwaterman.com) — cloud architecture, engineering, and whatever I'm building |
 | **Notes** | [notes.rickwaterman.com](https://notes.rickwaterman.com) — references, implementation notes, and technical docs |
-| **Resume** | [rickwaterman.com/resume](https://rickwaterman.com/resume) |
+| **Blog** | [blog.rickwaterman.com](https://blog.rickwaterman.com) — cloud architecture, engineering, and whatever I'm building |
 
 ## Focus
 
