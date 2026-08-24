@@ -27,5 +27,6 @@ Lead Cloud Architect. I lead cloud architecture and backend delivery — serverl
 - [scripts](https://github.com/rwaterman/scripts) [![gitleaks](https://github.com/rwaterman/scripts/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/rwaterman/scripts/actions/workflows/gitleaks.yml) — standalone operational scripts
 - [ts-lib-starter](https://github.com/rwaterman/ts-lib-starter) — minimal Node 24+ ESM starter for TypeScript libraries
 - [deep-object-rename-ts](https://github.com/rwaterman/deep-object-rename-ts) [![npm](https://img.shields.io/npm/v/deep-object-rename)](https://www.npmjs.com/package/deep-object-rename) — dependency-free deep rename of object keys or values
+- [utils-ts](https://github.com/rwaterman/utils-ts) [![npm](https://img.shields.io/npm/v/@rwaterman/utils)](https://www.npmjs.com/package/@rwaterman/utils) — small, typed, dependency-free async helpers and utilities
 - [pendularium](https://github.com/rwaterman/pendularium) — chaotic double-pendulum generative art in Swift + Metal, painting an HDR image until the machine gives out
 - [radial-afterburn](https://github.com/rwaterman/radial-afterburn) — neon tube shooter in Swift + Metal, built almost entirely with AI coding agents
